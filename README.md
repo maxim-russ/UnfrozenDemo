@@ -5,9 +5,11 @@
 
 # Download
 
-Compiled Windows and Android binaries can be downloaded here.
+Compiled Windows and Android binaries can be downloaded [here](https://github.com/maxim-russ/UnfrozenDemo/releases).
 
 # About
+
+https://user-images.githubusercontent.com/106997833/172232073-6c33bf64-ee1d-48da-91e9-f0f366546868.mp4
 
 This is a sample project made as a part of the application process for Unity Developer position at Unfrozen Studio.
 
@@ -50,7 +52,7 @@ Implement barebones combat mechanics, using [Iratus: Lord of the Dead](https://s
 
 #### Environment
 
-  - `EnvironmentController` - Controlls paralax effects and background darkening (tint).
+  - `EnvironmentController` - Controls parallax effects and background darkening (tint).
 
 #### Camera
 
