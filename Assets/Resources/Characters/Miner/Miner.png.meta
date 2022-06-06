@@ -1,0 +1,960 @@
+fileFormatVersion: 2
+guid: d176bac49a1be79689e6b06d0a1c54dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3621610930353135285
+    second: base/Body
+  - first:
+      213: 3949857667055122586
+    second: base/BodyLight
+  - first:
+      213: -1360637408693656272
+    second: base/BottomCloak
+  - first:
+      213: -6804441946679286624
+    second: base/Face
+  - first:
+      213: -198386993626690027
+    second: base/FaceLight
+  - first:
+      213: 8235866976407621777
+    second: base/FrontArm
+  - first:
+      213: 1536624750019137014
+    second: base/FrontArmLight
+  - first:
+      213: 215035431152194152
+    second: base/FrontChain
+  - first:
+      213: 6099627179790528810
+    second: base/FrontEye
+  - first:
+      213: 904916983112991830
+    second: base/FrontFoot
+  - first:
+      213: -6790338017903331199
+    second: base/FrontHair
+  - first:
+      213: -5228874600966295925
+    second: base/FrontLeg
+  - first:
+      213: -6506021797105451722
+    second: base/FrontLegCloak
+  - first:
+      213: -8955506119183288447
+    second: base/FrontLegCloak2
+  - first:
+      213: 2607478552254472716
+    second: base/FrontShoulderCloak
+  - first:
+      213: -4338991081523145615
+    second: base/Light1
+  - first:
+      213: 2220885391226387815
+    second: base/Light2
+  - first:
+      213: 5620103378432837829
+    second: base/MiddleChain
+  - first:
+      213: 2213282974806573205
+    second: base/RearArm
+  - first:
+      213: -6433851191851222101
+    second: base/RearArmLight
+  - first:
+      213: 1781602803673579315
+    second: base/RearChain
+  - first:
+      213: -2454633036966000684
+    second: base/RearEye
+  - first:
+      213: -7245417457414547332
+    second: base/RearFoot
+  - first:
+      213: -3796328558094435418
+    second: base/RearHair
+  - first:
+      213: 363924896780881498
+    second: base/RearHand
+  - first:
+      213: 349301741359034020
+    second: base/RearHandLight
+  - first:
+      213: 5314368416345219919
+    second: base/RearLeg
+  - first:
+      213: 4223305572610061861
+    second: base/RearLegCloak
+  - first:
+      213: -914567809621723125
+    second: base/RearLegCloak2
+  - first:
+      213: -8505069072297856372
+    second: base/RearShoulder
+  - first:
+      213: -4634028756617233193
+    second: base/RearShoulderLight
+  - first:
+      213: -1531650649240555904
+    second: base/Splash
+  - first:
+      213: -852742136994680098
+    second: base/Splash_rotate
+  - first:
+      213: -7921147986583807735
+    second: base/Weapon
+  - first:
+      213: 2388846775050655861
+    second: base/WeaponChain
+  - first:
+      213: -8805149430282725095
+    second: base/Weapon_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: base/Body
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2
+        width: 529
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bede5af3fb824230800000000000000
+      internalID: 3621610930353135285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/BodyLight
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 260
+        width: 161
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a987c26fe96b0d630800000000000000
+      internalID: 3949857667055122586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/BottomCloak
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 214
+        width: 226
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035e4ba5c7b0e1de0800000000000000
+      internalID: -1360637408693656272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/Face
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 260
+        width: 154
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4e969d914c191a0800000000000000
+      internalID: -6804441946679286624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/FaceLight
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 348
+        width: 188
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ec2d494103f3df0800000000000000
+      internalID: -198386993626690027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/FrontArm
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2
+        width: 465
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190952a216dab4270800000000000000
+      internalID: 8235866976407621777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/FrontArmLight
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 415
+        width: 166
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdc6f99110335510800000000000000
+      internalID: 1536624750019137014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/FrontChain
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 204
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86213f7d595fbf200800000000000000
+      internalID: 215035431152194152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/FrontEye
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 495
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a217bb15a9a36a450800000000000000
+      internalID: 6099627179790528810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/FrontFoot
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 369
+        width: 138
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6540ba1a339ee8c00800000000000000
+      internalID: 904916983112991830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/FrontHair
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 2
+        width: 71
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188ba0aac8fd3c1a0800000000000000
+      internalID: -6790338017903331199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/FrontLeg
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 2
+        width: 422
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e6752114e4f67b0800000000000000
+      internalID: -5228874600966295925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/FrontLegCloak
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 450
+        width: 132
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63db49a55a7f5b5a0800000000000000
+      internalID: -6506021797105451722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/FrontLegCloak2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 450
+        width: 117
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1873e3602a6a7b380800000000000000
+      internalID: -8955506119183288447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/FrontShoulderCloak
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 214
+        width: 155
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02e392adef9f2420800000000000000
+      internalID: 2607478552254472716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/Light1
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 260
+        width: 211
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174993ea99ec8c3c0800000000000000
+      internalID: -4338991081523145615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/Light2
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 2
+        width: 324
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d37ee1f7b22de10800000000000000
+      internalID: 2220885391226387815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/MiddleChain
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 214
+        width: 232
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c846700f3e9efd40800000000000000
+      internalID: 5620103378432837829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/RearArm
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 303
+        width: 121
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59004cc932927be10800000000000000
+      internalID: 2213282974806573205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/RearArmLight
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 365
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babfbf3dd6e56b6a0800000000000000
+      internalID: -6433851191851222101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/RearChain
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 204
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fbdc38f4689b810800000000000000
+      internalID: 1781602803673579315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/RearEye
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 495
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d704b112446fedd0800000000000000
+      internalID: -2454633036966000684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/RearFoot
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 369
+        width: 175
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c785469d53b137b90800000000000000
+      internalID: -7245417457414547332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/RearHair
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 415
+        width: 147
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab3c1c4a4bb05bc0800000000000000
+      internalID: -3796328558094435418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/RearHand
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 303
+        width: 414
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e8b85f3cbec0500800000000000000
+      internalID: 363924896780881498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/RearHandLight
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 110
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae61254518f8d400800000000000000
+      internalID: 349301741359034020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/RearLeg
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 2
+        width: 477
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43efcdfaed60c940800000000000000
+      internalID: 5314368416345219919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/RearLegCloak
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 204
+        width: 118
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526b951da023c9a30800000000000000
+      internalID: 4223305572610061861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/RearLegCloak2
+      rect:
+        serializedVersion: 2
+        x: 4076
+        y: 110
+        width: 18
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b087d783c6dce43f0800000000000000
+      internalID: -914567809621723125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/RearShoulder
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 303
+        width: 102
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8276839dbce7f980800000000000000
+      internalID: -8505069072297856372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/RearShoulderLight
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 303
+        width: 160
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc72e2e56f90bfb0800000000000000
+      internalID: -4634028756617233193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/Splash
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 2
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e250c79db7ebae0800000000000000
+      internalID: -1531650649240555904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/Splash_rotate
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 2
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2bc6f5b837a24f0800000000000000
+      internalID: -852742136994680098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/Weapon
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 486
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9091f5ecfdd621290800000000000000
+      internalID: -7921147986583807735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/WeaponChain
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 2
+        width: 288
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5785bb93c73e62120800000000000000
+      internalID: 2388846775050655861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base/Weapon_2
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2
+        width: 486
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919d3cdae33ddc580800000000000000
+      internalID: -8805149430282725095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

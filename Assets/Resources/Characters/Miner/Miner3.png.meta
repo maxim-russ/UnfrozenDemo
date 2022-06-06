@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: b2c70dce66622fcc980a6e7cccec6f3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3750694934298647445
+    second: elite/Body
+  - first:
+      213: -2682542112119608220
+    second: elite/Face
+  - first:
+      213: 5205692264734184336
+    second: elite/FrontArm
+  - first:
+      213: 2009079771866290663
+    second: elite/FrontChain
+  - first:
+      213: 6132158561451191012
+    second: elite/FrontFoot
+  - first:
+      213: -4359735687579156714
+    second: elite/FrontHair
+  - first:
+      213: 2238180281962876411
+    second: elite/FrontLeg
+  - first:
+      213: -8336619759645168296
+    second: elite/FrontShoulderCloak
+  - first:
+      213: -442242822298903822
+    second: elite/MiddleChain
+  - first:
+      213: 8772434151467529071
+    second: elite/RearChain
+  - first:
+      213: 8998921693115058973
+    second: elite/RearFoot
+  - first:
+      213: -129376708601426136
+    second: elite/RearHand
+  - first:
+      213: -5961688231805856074
+    second: elite/RearLeg
+  - first:
+      213: 8846712939281118146
+    second: elite/Weapon
+  - first:
+      213: -8097024469662267552
+    second: elite/WeaponChain
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elite/Body
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 2
+        width: 529
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64a54c44dad2fbc0800000000000000
+      internalID: -3750694934298647445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elite/Face
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 303
+        width: 154
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ca5186922b5cad0800000000000000
+      internalID: -2682542112119608220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elite/FrontArm
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 2
+        width: 200
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093da79a8855e3840800000000000000
+      internalID: 5205692264734184336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elite/FrontChain
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 418
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9538f686fa1eb10800000000000000
+      internalID: 2009079771866290663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elite/FrontFoot
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 303
+        width: 134
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea2ba9d8bdc91550800000000000000
+      internalID: 6132158561451191012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elite/FrontHair
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 426
+        width: 106
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f3043bd7b1f73c0800000000000000
+      internalID: -4359735687579156714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elite/FrontLeg
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2
+        width: 196
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd4ea9ab1d9f0f10800000000000000
+      internalID: 2238180281962876411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elite/FrontShoulderCloak
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 303
+        width: 149
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85de8d67f706e4c80800000000000000
+      internalID: -8336619759645168296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elite/MiddleChain
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 292
+        width: 232
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa58680f76dcd9f0800000000000000
+      internalID: -442242822298903822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elite/RearChain
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 426
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f633ab5e162fdb970800000000000000
+      internalID: 8772434151467529071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elite/RearFoot
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 303
+        width: 118
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b0eaff99792ec70800000000000000
+      internalID: 8998921693115058973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elite/RearHand
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2
+        width: 110
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f4a99a19c543ef0800000000000000
+      internalID: -129376708601426136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elite/RearLeg
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2
+        width: 210
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6d599b324d34da0800000000000000
+      internalID: -5961688231805856074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elite/Weapon
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 446
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3f3bfdb86d5ca70800000000000000
+      internalID: 8846712939281118146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elite/WeaponChain
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 2
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067822c052791af80800000000000000
+      internalID: -8097024469662267552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
