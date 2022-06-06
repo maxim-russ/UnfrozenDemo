@@ -66,7 +66,7 @@ Implement barebones combat mechanics, using [Iratus: Lord of the Dead](https://s
 
   - `>0` - Scene environment
   - `0` - Characters
-  - `0.01` - Tint overlay
+  - `-0.01` - Tint overlay
   - `-1` - Combat action
 
 # License
