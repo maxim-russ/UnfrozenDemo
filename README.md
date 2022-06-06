@@ -73,10 +73,10 @@ Implement barebones combat mechanics, using [Iratus: Lord of the Dead](https://s
 
 This project is licensed under [MIT License](http://opensource.org/licenses/MIT), with the exception of 2 directories:
 
-### `./Resources`
+### `./Assets/Resources`
 
 All the assets in this folder belong to Unfrozen Studio, and cannot be (re)used outside of this repo.
 
-### `./Spine`
+### `./Assets/Spine`
 
 `spine-unity` package belongs to Esoteric Software.
